@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pantrippu
 
-Things you may want to cover:
+This is a app initially thought to practice some rails by my own after the railstutorial tutorial.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The objective is to make an app which the user is able to store things he has bought with params like amount, expiration
+date, etc.
